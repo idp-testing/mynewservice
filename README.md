@@ -1,0 +1,2 @@
+# mynewservice
+Generated Repository
